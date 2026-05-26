@@ -1,4 +1,4 @@
-# python-memo-cli
+# python-memo-cli　　（生成AI利用）
 
 PythonとSQLiteで作成したCLIメモアプリです。
 
